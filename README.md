@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,50:0D9488,100:5EEAD4&height=220&section=header&text=LAKSHMANAN S%20S%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Backend%20Developer&descAlignY=55&descSize=18&descColor=e2f4f1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,50:0D9488,100:5EEAD4&height=220&section=header&text=LAKSHMANAN%20S%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Backend%20Developer&descAlignY=55&descSize=18&descColor=e2f4f1" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=750&lines=Aspiring+Backend+Developer;Python+%7C+FastAPI+%7C+MySQL;Learning+DSA+and+System+Design;Building+Clean+%26+Scalable+Code" />
 

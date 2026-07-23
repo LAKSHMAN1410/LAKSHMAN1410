@@ -29,8 +29,6 @@
 <div align="center">
 
 
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=LAKSHMAN1410&theme=tokyonight&hide_border=true&ring=EC4899&fire=EC4899&currStreakLabel=EC4899"/>
 
 </div>

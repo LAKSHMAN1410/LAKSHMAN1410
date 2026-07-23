@@ -28,7 +28,6 @@
 
 <div align="center">
 
-
 <img src="https://streak-stats.demolab.com?user=LAKSHMAN1410&theme=tokyonight&hide_border=true&ring=EC4899&fire=EC4899&currStreakLabel=EC4899"/>
 
 </div>
@@ -140,16 +139,6 @@ A Bluetooth-enabled cleaning robot with mobile app control for accurate, real-ti
 
 ---
 
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LAKSHMAN1410&theme=tokyo-night&hide_border=true&color=EC4899&line=EC4899&point=fce7f3"/>
-
-</div>
-
----
-
 # 📫 Connect With Me
 
 <div align="center">
@@ -166,6 +155,26 @@ A Bluetooth-enabled cleaning robot with mobile app control for accurate, real-ti
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LAKSHMAN1410/LAKSHMAN1410/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" width="100%"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LAKSHMAN1410&theme=tokyo-night&hide_border=true&color=EC4899&line=EC4899&point=fce7f3"/>
+
+</div>
+
+---
+
 # 📜 License
 
 Copyright © 2026 LAKSHMANAN S
@@ -176,7 +185,7 @@ This repository and its contents are provided for educational and professional p
 
 <div align="center">
 
-### ⭐ Always Learning • Always Building • Always Improving
+### ⭐ Learn • Build • Grow
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,100:831843&height=120&section=footer"/>
 

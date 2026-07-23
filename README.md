@@ -28,9 +28,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LAKSHMAN1410&show_icons=true&theme=tokyonight&hide_border=true&title_color=EC4899&icon_color=EC4899&text_color=fce7f3&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats-snowy-one-11.vercel.app/api?username=LAKSHMAN1410&show_icons=true&theme=tokyonight&hide_border=true&title_color=EC4899&icon_color=EC4899&text_color=fce7f3&bg_color=0D1117"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAKSHMAN1410&layout=compact&theme=tokyonight&hide_border=true&title_color=EC4899&text_color=fce7f3&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats-snowy-one-11.vercel.app/api/top-langs/?username=LAKSHMAN1410&layout=compact&theme=tokyonight&hide_border=true&title_color=EC4899&text_color=fce7f3&bg_color=0D1117"/>
 
 <br><br>
 

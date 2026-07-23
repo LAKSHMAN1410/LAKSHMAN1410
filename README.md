@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,50:0D9488,100:5EEAD4&height=220&section=header&text=LAKSHMANAN%20S%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Backend%20Developer&descAlignY=55&descSize=18&descColor=e2f4f1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:831843,50:BE185D,100:F472B6&height=220&section=header&text=LAKSHMANAN%20S%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Backend%20Developer&descAlignY=55&descSize=18&descColor=fce7f3" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=750&lines=Aspiring+Backend+Developer;Python+%7C+FastAPI+%7C+MySQL;Learning+DSA+and+System+Design;Building+Clean+%26+Scalable+Code" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=750&lines=Aspiring+Backend+Developer;Python+%7C+FastAPI+%7C+MySQL;Learning+DSA+and+System+Design;Building+Clean+%26+Scalable+Code" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=LAKSHMAN1410&label=Profile%20Views&color=0D9488&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/LAKSHMAN1410?style=for-the-badge&color=0F766E"/>
+<img src="https://komarev.com/ghpvc/?username=LAKSHMAN1410&label=Profile%20Views&color=BE185D&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/LAKSHMAN1410?style=for-the-badge&color=9D174D"/>
 
 </div>
 
@@ -15,12 +15,12 @@
 
 # 👨‍💻 About Me
 
-💻 Aspiring Backend Developer
-📚 Currently learning Data Structures & Algorithms
-⚙️ Building backend applications with modern technologies
-🌱 Exploring databases, APIs, authentication, and system design
-🎯 Goal: Become a skilled backend engineer and write scalable, clean code
-🚀 Always learning and improving through projects and problem-solving
+💻 Backend developer in the making, focused on writing solid, working code
+📚 Sharpening my problem-solving with Data Structures & Algorithms
+⚙️ Building real backend apps using modern tools and frameworks
+🌱 Diving into databases, APIs, authentication flows, and system design
+🎯 Working toward becoming a strong backend engineer who ships clean, scalable code
+🚀 Growing every day through hands-on projects and constant practice
 
 ---
 
@@ -28,13 +28,13 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LAKSHMAN1410&show_icons=true&theme=tokyonight&hide_border=true&title_color=2DD4BF&icon_color=2DD4BF&text_color=e2f4f1&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LAKSHMAN1410&show_icons=true&theme=tokyonight&hide_border=true&title_color=EC4899&icon_color=EC4899&text_color=fce7f3&bg_color=0D1117"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAKSHMAN1410&layout=compact&theme=tokyonight&hide_border=true&title_color=2DD4BF&text_color=e2f4f1&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAKSHMAN1410&layout=compact&theme=tokyonight&hide_border=true&title_color=EC4899&text_color=fce7f3&bg_color=0D1117"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=LAKSHMAN1410&theme=tokyonight&hide_border=true&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF"/>
+<img src="https://streak-stats.demolab.com?user=LAKSHMAN1410&theme=tokyonight&hide_border=true&ring=EC4899&fire=EC4899&currStreakLabel=EC4899"/>
 
 </div>
 
@@ -84,7 +84,7 @@
 ### 📡 Frame-Based Image Transmission App
 **Python · OpenCV · Socket Programming (TCP/IP) · Tkinter**
 
-Built a frame-based image transmission system by segmenting images into structured data frames for efficient transfer. Implemented metadata-driven frame transmission and accurate image reconstruction with loss handling over TCP/IP.
+Segments images into structured frames for efficient transfer, with metadata-driven transmission and lossless reconstruction over TCP/IP.
 
 </td>
 <td width="50%" valign="top">
@@ -92,7 +92,7 @@ Built a frame-based image transmission system by segmenting images into structur
 ### 🍽 Responsive Restaurant Website
 **HTML · CSS · JavaScript**
 
-Developed a responsive website with menu, about page, gallery, and contact form sections. Ensured seamless performance across devices with smooth navigation and improved user engagement.
+A responsive site with menu, about, gallery, and contact sections, built for smooth navigation across devices.
 
 </td>
 </tr>
@@ -102,7 +102,7 @@ Developed a responsive website with menu, about page, gallery, and contact form 
 ### 🔐 FPGA-Based PUF for Hardware Security
 **Verilog · Xilinx Vivado · Basys-3 FPGA**
 
-Developed an Arbiter-based PUF for secure hardware authentication using device-specific manufacturing variations. Implemented an XOR-based PUF on FPGA to enhance reliability and uniqueness, validated through a challenge–response protocol.
+An Arbiter and XOR-based PUF for secure hardware authentication, validated through a challenge–response protocol.
 
 </td>
 <td width="50%" valign="top">
@@ -110,7 +110,7 @@ Developed an Arbiter-based PUF for secure hardware authentication using device-s
 ### 🚧 Automatic Gate Control for Smart Parking
 **C · Arduino IDE · ESP32**
 
-Designed an ESP32-based smart parking system with automatic gate control using sensors and a servo motor. Implemented a Binary Search Tree for effective slot allocation with Wi-Fi-based updates.
+An ESP32-based smart parking system with automatic gates and BST-driven slot allocation, updated over Wi-Fi.
 
 </td>
 </tr>
@@ -120,7 +120,7 @@ Designed an ESP32-based smart parking system with automatic gate control using s
 ### 🏥 Patient Health Monitor in Quarantine
 **Arduino · Sensors · Python**
 
-Monitors heartbeat, temperature, and blood pressure using Arduino and sensors. Python processes the data in real time, with a buzzer alert for abnormal readings — enabling remote monitoring and timely medical response.
+Tracks heartbeat, temperature, and blood pressure in real time, with buzzer alerts for abnormal readings.
 
 </td>
 <td width="50%" valign="top">
@@ -128,7 +128,7 @@ Monitors heartbeat, temperature, and blood pressure using Arduino and sensors. P
 ### 🤖 Smart App-Controlled Cleaning Robot
 **Python · Bluetooth Module · Arduino Uno · Sensors**
 
-Developed a Bluetooth-enabled smart cleaning robot with mobile app control for automated operation, enabling real-time communication between the robot and app to improve control accuracy and efficiency.
+A Bluetooth-enabled cleaning robot with mobile app control for accurate, real-time automated operation.
 
 </td>
 </tr>
@@ -149,7 +149,7 @@ Developed a Bluetooth-enabled smart cleaning robot with mobile app control for a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LAKSHMAN1410&theme=tokyo-night&hide_border=true&color=2DD4BF&line=2DD4BF&point=e2f4f1"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LAKSHMAN1410&theme=tokyo-night&hide_border=true&color=EC4899&line=EC4899&point=fce7f3"/>
 
 </div>
 
@@ -173,7 +173,7 @@ Developed a Bluetooth-enabled smart cleaning robot with mobile app control for a
 
 # 📜 License
 
-Copyright © 2026 Lakshmanan S
+Copyright © 2026 LAKSHMANAN S
 
 This repository and its contents are provided for educational and professional purposes.
 
@@ -183,6 +183,6 @@ This repository and its contents are provided for educational and professional p
 
 ### ⭐ Always Learning • Always Building • Always Improving
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,100:134E4A&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,100:831843&height=120&section=footer"/>
 
 </div>

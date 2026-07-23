@@ -15,12 +15,12 @@
 
 # 👨‍💻 About Me
 
-💻 Backend developer in the making, focused on writing solid, working code
-📚 Sharpening my problem-solving with Data Structures & Algorithms
-⚙️ Building real backend apps using modern tools and frameworks
-🌱 Diving into databases, APIs, authentication flows, and system design
-🎯 Working toward becoming a strong backend engineer who ships clean, scalable code
-🚀 Growing every day through hands-on projects and constant practice
+💻 Backend developer in the making, focused on writing solid, working code.<br>
+📚 Sharpening my problem-solving with Data Structures & Algorithms.<br>
+⚙️ Building real backend apps using modern tools and frameworks.<br>
+🌱 Diving into databases, APIs, authentication flows, and system design.<br>
+🎯 Working toward becoming a strong backend engineer who ships clean, scalable code.<br>
+🚀 Growing every day through hands-on projects and constant practice.<br>
 
 ---
 
